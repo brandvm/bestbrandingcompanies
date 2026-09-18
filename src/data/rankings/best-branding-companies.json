@@ -1,0 +1,232 @@
+{
+  "headers": [
+    "#",
+    "AGENCY",
+    "EST.",
+    "LOCATIONS",
+    "MIN. BUDGET",
+    "FOCUS",
+    "SCORE"
+  ],
+  "agencies": [
+    {
+      "id": "agency-brand-vision",
+      "name": "Brand Vision",
+      "heading": "1 | Brand Vision",
+      "cells": [
+        "1",
+        "Brand Vision",
+        "2018",
+        "Toronto, Chicago, San Francisco & Miami",
+        "$10,000+",
+        "Brand strategy, identity, web design",
+        "9.5/10"
+      ],
+      "facts": [
+        "📍 Toronto, Chicago, San Francisco &amp; Miami | Est. 2018 | Min. budget: $10,000+",
+        "<strong>Rating:</strong> Clutch: 5.0/5 | Google: 4.9/5 | DesignRush: 4.8/5",
+        "<strong>Clients:</strong> Safeway, First Horizon Bank, Flipp, ArcelorMittal."
+      ]
+    },
+    {
+      "id": "agency-want",
+      "name": "WANT",
+      "heading": "2 | WANT",
+      "cells": [
+        "2",
+        "WANT",
+        "1999",
+        "New York, Miami, Chicago & Atlanta",
+        "$25,000+",
+        "Strategy, naming, identity, architecture",
+        "9.3/10"
+      ],
+      "facts": [
+        "📍 New York, Miami, Chicago &amp; Atlanta | Est. 1999 | Min. budget: $25,000+",
+        "<strong>Rating:</strong> Clutch: 4.9/5 | Google: Not confirmed | DesignRush: Not confirmed",
+        "<strong>Clients:</strong> Cisco, Royal Caribbean, Uber, POLITICO."
+      ]
+    },
+    {
+      "id": "agency-anchour",
+      "name": "Anchour",
+      "heading": "3 | Anchour",
+      "cells": [
+        "3",
+        "Anchour",
+        "2013",
+        "New Gloucester, Maine",
+        "$25,000+",
+        "Branding, websites, packaging, marketing",
+        "9.2/10"
+      ],
+      "facts": [
+        "📍 New Gloucester, Maine | Est. 2013 | Min. budget: $25,000+",
+        "<strong>Rating:</strong> Clutch: 4.9/5 | Google: 4.8/5 | DesignRush: 4.9/5",
+        "<strong>Clients:</strong> LesserEvil, MOD Pizza, Kate’s Butter, Lighthouse Credit Union."
+      ]
+    },
+    {
+      "id": "agency-daake",
+      "name": "Daake",
+      "heading": "4 | Daake",
+      "cells": [
+        "4",
+        "Daake",
+        "2001",
+        "Chicago",
+        "$25,000+",
+        "Repositioning, identity, brand architecture",
+        "9.1/10"
+      ],
+      "facts": [
+        "📍 Chicago | Est. 2001 | Min. budget: $25,000+",
+        "<strong>Rating:</strong> Clutch: 5.0/5 | Google: Not confirmed | DesignRush: Not confirmed",
+        "<strong>Clients:</strong> FNBO, Nebraska Medicine, Airlite Plastics, AMAROK."
+      ]
+    },
+    {
+      "id": "agency-bobs-your-uncle",
+      "name": "Bob’s Your Uncle",
+      "heading": "5 | Bob’s Your Uncle",
+      "cells": [
+        "5",
+        "Bob’s Your Uncle",
+        "1990",
+        "Toronto",
+        "$50,000+",
+        "Consumer branding, packaging, campaigns",
+        "9.0/10"
+      ],
+      "facts": [
+        "📍 Toronto | Est. 1990 | Min. budget: $50,000+",
+        "<strong>Rating:</strong> Clutch: 4.9/5 | Google: Not confirmed | DesignRush: Not confirmed",
+        "<strong>Clients:</strong> Popeyes Canada, Sofina Foods, Second Harvest, Beef Farmers of Ontario."
+      ]
+    },
+    {
+      "id": "agency-tanj",
+      "name": "Tanj",
+      "heading": "6 | Tanj",
+      "cells": [
+        "6",
+        "Tanj",
+        "2009",
+        "New York",
+        "$25,000+",
+        "Naming, verbal identity, brand language",
+        "8.9/10"
+      ],
+      "facts": [
+        "📍 New York | Est. 2009 | Min. budget: $25,000+",
+        "<strong>Rating:</strong> Clutch: 5.0/5 | Google: Not confirmed | DesignRush: Not confirmed",
+        "<strong>Clients:</strong> JPMorgan, NFL, Dashlane, Nestlé."
+      ]
+    },
+    {
+      "id": "agency-the-branx",
+      "name": "The Branx",
+      "heading": "7 | The Branx",
+      "cells": [
+        "7",
+        "The Branx",
+        "2019",
+        "Cádiz, Spain",
+        "$25,000+",
+        "Startup branding, identity, web design",
+        "8.8/10"
+      ],
+      "facts": [
+        "📍 Cádiz, Spain | Est. 2019 | Min. budget: $25,000+",
+        "<strong>Rating:</strong> Clutch: 5.0/5 | Google: 5.0/5 | DesignRush: Not confirmed",
+        "<strong>Clients:</strong> Featherless, North, Diamo, Eluviant."
+      ]
+    },
+    {
+      "id": "agency-ramotion",
+      "name": "Ramotion",
+      "heading": "8 | Ramotion",
+      "cells": [
+        "8",
+        "Ramotion",
+        "2009",
+        "San Francisco",
+        "$50,000+",
+        "Branding, UI/UX, web design",
+        "8.7/10"
+      ],
+      "facts": [
+        "📍 San Francisco | Est. 2009 | Min. budget: $50,000+",
+        "<strong>Rating:</strong> Clutch: 4.9/5 | Google: 5.0/5 | DesignRush: 4.9/5",
+        "<strong>Clients:</strong> Firefox, Volusion, Flatfile, Murf AI."
+      ]
+    },
+    {
+      "id": "agency-clay",
+      "name": "Clay",
+      "heading": "9 | Clay",
+      "cells": [
+        "9",
+        "Clay",
+        "2016",
+        "San Francisco",
+        "$50,000+",
+        "Branding, digital products, websites",
+        "8.6/10"
+      ],
+      "facts": [
+        "📍 San Francisco | Est. 2016 | Min. budget: $50,000+",
+        "<strong>Rating:</strong> Clutch: 4.8/5 | Google: 4.8/5 | DesignRush: 4.9/5",
+        "<strong>Clients:</strong> Meta, Google, Slack, Coinbase."
+      ]
+    },
+    {
+      "id": "agency-mucho",
+      "name": "Mucho",
+      "heading": "10 | Mucho",
+      "cells": [
+        "10",
+        "Mucho",
+        "2003",
+        "Barcelona & San Francisco",
+        "$50,000+",
+        "Strategy, identity, brand management",
+        "8.5/10"
+      ],
+      "facts": [
+        "📍 Barcelona &amp; San Francisco | Est. 2003 | Min. budget: $50,000+",
+        "<strong>Rating:</strong> Clutch: Not yet reviewed | Google: 4.8/5 | DesignRush: Not confirmed",
+        "<strong>Clients:</strong> Visa, MACBA, Eko Health, Aeroméxico."
+      ]
+    }
+  ],
+  "quickMatch": {
+    "headers": [
+      "<strong>YOUR SITUATION</strong>",
+      "<strong>AGENCIES TO SHORTLIST</strong>",
+      "<strong>WHY THEY FIT</strong>"
+    ],
+    "rows": [
+      [
+        "<strong>Best Overall Pick</strong>",
+        "<strong>Brand Vision</strong>",
+        "The strongest overall editorial assessment for its balance of value, client feedback, portfolio, and coordinated delivery."
+      ],
+      [
+        "<strong>Growing business launching a rebrand and website together</strong>",
+        "<strong>Brand Vision</strong>",
+        "Strategy, identity, and website execution within one team, with a lower listed entry budget than the other agencies here."
+      ],
+      [
+        "<strong>Established company repositioning or simplifying its brand portfolio</strong>",
+        "<strong>WANT or Daake</strong>",
+        "Positioning, brand architecture, and guidance through an established brand’s transition."
+      ],
+      [
+        "<strong>Technology company connecting its brand with product UX</strong>",
+        "<strong>Ramotion or Clay</strong>",
+        "Brand identity combined with interfaces, design systems, websites, and digital implementation."
+      ]
+    ]
+  }
+}
