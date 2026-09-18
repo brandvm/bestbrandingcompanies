@@ -5,15 +5,24 @@
   "eyebrow": "THE ART OF CHOOSING WELL",
   "headline": "Good brands beginwith great partners.",
   "intro": "Brand strategy. Identity. A clearer direction. Explore the companies helping businesses bring it all together, with the detail you need to choose thoughtfully.",
-  "accent": "#822e49",
-  "bg": "#faf8f3",
-  "ink": "#31292b",
-  "muted": "#65575c",
-  "line": "#d7cbc6",
-  "display": "newsreader",
-  "body": "dm-sans",
-  "style": "editorial",
+  "accent": "#5535bd",
+  "bg": "#ffffff",
+  "ink": "#20232d",
+  "muted": "#5e6372",
+  "line": "#dce0e8",
+  "display": "dm-sans",
+  "body": "inter-tight",
+  "style": "branding",
   "description": "A considered guide to branding companies, comparing strategy, identity, budgets, client experience, and project fit.",
   "domain": "bestbrandingcompanies.com",
-  "repo": "bestbrandingcompanies"
+  "repo": "bestbrandingcompanies",
+  "homeArticle": "best-branding-companies",
+  "brief": "Compare the creative partners behind stronger brands.",
+  "direction": "The brand partner directory",
+  "navigation": [
+    {
+      "slug": "best-branding-companies",
+      "label": "Branding companies"
+    }
+  ]
 }

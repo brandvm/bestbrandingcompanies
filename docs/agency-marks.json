@@ -1,0 +1,99 @@
+[
+  {
+    "id": "agency-anchour",
+    "name": "Anchour",
+    "url": "https://www.anchour.com/work/?utm_source=chatgpt.com",
+    "source": "https://www.anchour.com/wp-content/themes/anchour/public/images/favicon/favicon-multi.d89137.svg",
+    "file": "agency-anchour.webp",
+    "width": 100,
+    "height": 100,
+    "sha256": "5eee3e9a38284263efdbea0fa8a2a46638e6e3032c370e0c4601c372c41b633e"
+  },
+  {
+    "id": "agency-bobs-your-uncle",
+    "name": "Bob\u2019s Your Uncle",
+    "url": "https://www.bobsyouruncle.com/work?utm_source=chatgpt.com",
+    "file": null,
+    "note": "Plain initials fallback; official asset unavailable."
+  },
+  {
+    "id": "agency-brand-vision",
+    "name": "Brand Vision",
+    "url": "https://www.brandvm.com/our-work-portfolio",
+    "source": "https://cdn.prod.website-files.com/68b9f0236581de795cba8ec2/6a959f61b4c30e1af77118f3_Favicon.png",
+    "file": "agency-brand-vision.webp",
+    "width": 512,
+    "height": 512,
+    "sha256": "96a3a9580ea963730809e89fa1d874f60e96d89ba71dcd4555699a7c2dae9a13"
+  },
+  {
+    "id": "agency-tanj",
+    "name": "Tanj",
+    "url": "https://tanj.co/work/?utm_source=chatgpt.com",
+    "source": "https://tanj.co/favicon.svg",
+    "file": "agency-tanj.webp",
+    "width": 32,
+    "height": 32,
+    "sha256": "d93be75dc0ed3f6bc080917b7de20806c9d3836d968251011fd52a9ef878eeb6"
+  },
+  {
+    "id": "agency-the-branx",
+    "name": "The Branx",
+    "url": "https://thebranx.com/work?utm_source=chatgpt.com",
+    "source": "https://cdn.prod.website-files.com/622ca61a5f7c217968b2cdc0/6a196fd27981866fc2d5ef9a_favicon.png",
+    "file": "agency-the-branx.webp",
+    "width": 512,
+    "height": 512,
+    "sha256": "524b1dac071872edc834223513594e6dc337e7cc20a33fed5465f601f9572ca0"
+  },
+  {
+    "id": "agency-daake",
+    "name": "Daake",
+    "url": "https://www.daake.com/work?utm_source=chatgpt.com",
+    "source": "https://images.squarespace-cdn.com/content/v1/67c8e158fa05610ffa85c872/d2e32fc5-9b25-47f9-9f0a-4694c2882d26/favicon.ico?format=100w",
+    "file": "agency-daake.webp",
+    "width": 100,
+    "height": 100,
+    "sha256": "8228dae373e9b8ced56c423f9864a9ab54ea42bd0482cfd9727c67594abb20fc"
+  },
+  {
+    "id": "agency-want",
+    "name": "WANT",
+    "url": "https://wantbranding.com/work/?utm_source=chatgpt.com",
+    "source": "https://wantbranding.com/wp-content/uploads/2022/08/cropped-want_brand_mark_512-192x192.png",
+    "file": "agency-want.webp",
+    "width": 192,
+    "height": 192,
+    "sha256": "6fc532c5ed542389b10cc6d14d5c7a3f7bc5743c48210aae561585d06dd6717a"
+  },
+  {
+    "id": "agency-mucho",
+    "name": "Mucho",
+    "url": "https://wearemucho.com/work?utm_source=chatgpt.com",
+    "source": "https://wearemucho.com/favicon/apple-touch-icon.png",
+    "file": "agency-mucho.webp",
+    "width": 180,
+    "height": 180,
+    "sha256": "2a6fdc83d8fad9e0b832b44809a24378c85b7a017359a1ece9c40df92b3d1482"
+  },
+  {
+    "id": "agency-ramotion",
+    "name": "Ramotion",
+    "url": "https://www.ramotion.com/work/branding/?utm_source=chatgpt.com",
+    "source": "https://www.ramotion.com/favicon-194x194.png",
+    "file": "agency-ramotion.webp",
+    "width": 194,
+    "height": 194,
+    "sha256": "ff00bf01e979ee8bb7016411562c05878c99e04a60645f7f2f87f83b618898cf"
+  },
+  {
+    "id": "agency-clay",
+    "name": "Clay",
+    "url": "https://clay.global/work?utm_source=chatgpt.com",
+    "source": "https://s3.amazonaws.com/clay.global/static/favicon/apple-touch-icon-152x152.png",
+    "file": "agency-clay.webp",
+    "width": 152,
+    "height": 152,
+    "sha256": "bea9374bdb761e131f27b251ee8570a324e6b6ae172972d38bad1c5ef1455b10"
+  }
+]

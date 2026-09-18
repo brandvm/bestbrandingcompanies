@@ -8,7 +8,7 @@
       "route": "/",
       "mode": "mobile",
       "median": {
-        "performance": 99,
+        "performance": 96,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -16,14 +16,28 @@
       "runs": [
         {
           "scores": {
-            "performance": 99,
+            "performance": 96,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 1653.0585,
-            "cls": 0.01669097387414961,
+            "lcp": 2028.9633,
+            "cls": 0.09466584350663393,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 96,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 2102.0973000000004,
+            "cls": 0.09466584350663393,
             "tbt": 0
           },
           "failures": []
@@ -36,22 +50,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1652.04285,
-            "cls": 0.01669097387414961,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1502.76885,
-            "cls": 0.01669097387414961,
+            "lcp": 1877.9586,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -76,8 +76,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.00710000000004,
-            "cls": 0,
+            "lcp": 483.13185,
+            "cls": 0.0009480373325453114,
             "tbt": 0
           },
           "failures": []
@@ -90,8 +90,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 361.43670000000003,
-            "cls": 0.00402044402854391,
+            "lcp": 483.7554,
+            "cls": 0.0009480373325453114,
             "tbt": 0
           },
           "failures": []
@@ -104,8 +104,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 360.86384999999996,
-            "cls": 0.00402044402854391,
+            "lcp": 482.10615,
+            "cls": 0.0009480373325453114,
             "tbt": 0
           },
           "failures": []
@@ -130,8 +130,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1426.6840499999998,
-            "cls": 0.0008505113485670808,
+            "lcp": 1351.0178999999998,
+            "cls": 0.0014661297308487,
             "tbt": 0
           },
           "failures": []
@@ -144,7 +144,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1426.1496,
+            "lcp": 1351.0162500000001,
             "cls": 0,
             "tbt": 0
           },
@@ -158,8 +158,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1426.1118,
-            "cls": 0,
+            "lcp": 1351.2687,
+            "cls": 0.0014661297308487,
             "tbt": 0
           },
           "failures": []
@@ -184,8 +184,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 362.3505,
-            "cls": 0.0003945144908501882,
+            "lcp": 321.19025,
+            "cls": 0.001134218380614657,
             "tbt": 0
           },
           "failures": []
@@ -198,101 +198,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 360.87854999999996,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 360.84915,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/best-branding-companies/",
-      "mode": "mobile",
-      "median": {
-        "performance": 99,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 99,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1651.4597999999999,
-            "cls": 0.001124656577778159,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 99,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1801.1999999999998,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 99,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1800.8503500000002,
-            "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        }
-      ]
-    },
-    {
-      "route": "/blog/best-branding-companies/",
-      "mode": "desktop",
-      "median": {
-        "performance": 100,
-        "accessibility": 100,
-        "best-practices": 100,
-        "seo": 100
-      },
-      "runs": [
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 400.89009999999996,
+            "lcp": 320.6438,
             "cls": 0,
             "tbt": 0
           },
@@ -306,22 +212,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 401.224,
+            "lcp": 320.6681,
             "cls": 0,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 401.20555,
-            "cls": 0.0007806758018854157,
             "tbt": 0
           },
           "failures": []
