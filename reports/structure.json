@@ -1,32 +1,32 @@
 {
-  "environment": "production",
+  "environment": "cloudflare-staging",
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 3161,
-      "fontBytes": 95016,
-      "javascriptGzipBytes": 0,
+      "cssGzipBytes": 4969,
+      "fontBytes": 87008,
+      "javascriptGzipBytes": 15453,
       "profiles": 0
     },
     {
       "page": "/blog/best-branding-companies/index.html",
-      "cssGzipBytes": 3161,
-      "fontBytes": 95016,
-      "javascriptGzipBytes": 0,
+      "cssGzipBytes": 4969,
+      "fontBytes": 87008,
+      "javascriptGzipBytes": 15453,
       "profiles": 10
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 3161,
-      "fontBytes": 95016,
-      "javascriptGzipBytes": 0,
+      "cssGzipBytes": 4969,
+      "fontBytes": 87008,
+      "javascriptGzipBytes": 15453,
       "profiles": 0
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 3161,
-      "fontBytes": 95016,
-      "javascriptGzipBytes": 0,
+      "cssGzipBytes": 4969,
+      "fontBytes": 87008,
+      "javascriptGzipBytes": 15453,
       "profiles": 0
     }
   ]

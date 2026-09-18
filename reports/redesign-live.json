@@ -1,0 +1,13 @@
+{
+  "site": "bestbrandingcompanies",
+  "url": "https://bestbrandingcompanies-staging.hamoun-ce6.workers.dev",
+  "commit": "0f82b648ce317c8a4de40c299bd0b0f1a5da2e21",
+  "checks": [
+    "Unauthenticated pages, assets, and build metadata are protected",
+    "3 authenticated pages available with noindex",
+    "Login name is enforced server-side for comments and replies",
+    "Independent sessions read the same persisted thread",
+    "Page and branch isolation remains enforced",
+    "QA thread resolved after verification"
+  ]
+}

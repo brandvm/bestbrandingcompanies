@@ -3,29 +3,29 @@
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 3161,
-      "fontBytes": 95016,
+      "cssGzipBytes": 3997,
+      "fontBytes": 87008,
       "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/blog/best-branding-companies/index.html",
-      "cssGzipBytes": 3161,
-      "fontBytes": 95016,
+      "cssGzipBytes": 3997,
+      "fontBytes": 87008,
       "javascriptGzipBytes": 0,
       "profiles": 10
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 3161,
-      "fontBytes": 95016,
+      "cssGzipBytes": 3997,
+      "fontBytes": 87008,
       "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 3161,
-      "fontBytes": 95016,
+      "cssGzipBytes": 3997,
+      "fontBytes": 87008,
       "javascriptGzipBytes": 0,
       "profiles": 0
     }
