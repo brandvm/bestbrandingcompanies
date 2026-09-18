@@ -1,0 +1,13 @@
+{
+  "site": "bestbrandingcompanies",
+  "commit": "e6d8df682dad40d9aa5232cadd1cc16f203cb9b8",
+  "pages": [
+    "/design/"
+  ],
+  "checks": [
+    "Unauthenticated design pages, CSS and fonts are protected",
+    "Authenticated design pages return 200 and noindex",
+    "Login preserves the style-guide return URL",
+    "Guide API accepts the correct page identifier"
+  ]
+}
