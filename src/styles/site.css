@@ -9,3 +9,6 @@
 
 .directory-hero{grid-template-columns:1.05fr 1fr}.hero-copy h1{max-width:540px}.agency-profile{border-left:3px solid var(--accent)}.agency-roster{border:1px solid var(--line);background:linear-gradient(135deg,var(--wash),var(--paper))}
 @media(max-width:800px){.directory-hero{grid-template-columns:1fr}}
+
+/* Row headers identify each agency or project without adopting column-header styling. */
+tbody th[scope="row"]{font-size:inherit;font-weight:650;letter-spacing:normal;text-transform:none;background:transparent;min-width:135px}tbody tr:last-child th{border-bottom:0}

@@ -1,6 +1,6 @@
 {
   "site": "bestbrandingcompanies",
-  "build": "local",
+  "build": "b478542832bf6d3bde2c29ed63ef833340de8b04",
   "tool": "Lighthouse",
   "runsPerPage": 3,
   "results": [
@@ -8,7 +8,7 @@
       "route": "/",
       "mode": "mobile",
       "median": {
-        "performance": 96,
+        "performance": 100,
         "accessibility": 100,
         "best-practices": 100,
         "seo": 100
@@ -16,28 +16,14 @@
       "runs": [
         {
           "scores": {
-            "performance": 96,
+            "performance": 100,
             "accessibility": 100,
             "best-practices": 100,
             "seo": 100
           },
           "metrics": {
-            "lcp": 2028.9633,
-            "cls": 0.09466584350663393,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 96,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 2102.0973000000004,
-            "cls": 0.09466584350663393,
+            "lcp": 1802.2427000000002,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -50,7 +36,21 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1877.9586,
+            "lcp": 1951.8698999999997,
+            "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1877.2464,
             "cls": 0,
             "tbt": 0
           },
@@ -76,8 +76,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 483.13185,
-            "cls": 0.0009480373325453114,
+            "lcp": 442.42589999999996,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -90,8 +90,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 483.7554,
-            "cls": 0.0009480373325453114,
+            "lcp": 442.12257847170207,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -104,8 +104,8 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 482.10615,
-            "cls": 0.0009480373325453114,
+            "lcp": 482.7862261174556,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -130,21 +130,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1351.0178999999998,
-            "cls": 0.0014661297308487,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 1351.0162500000001,
+            "lcp": 1502.9483,
             "cls": 0,
             "tbt": 0
           },
@@ -158,8 +144,22 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 1351.2687,
-            "cls": 0.0014661297308487,
+            "lcp": 1500.8001,
+            "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 1500.7337,
+            "cls": 0,
             "tbt": 0
           },
           "failures": []
@@ -184,21 +184,7 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 321.19025,
-            "cls": 0.001134218380614657,
-            "tbt": 0
-          },
-          "failures": []
-        },
-        {
-          "scores": {
-            "performance": 100,
-            "accessibility": 100,
-            "best-practices": 100,
-            "seo": 100
-          },
-          "metrics": {
-            "lcp": 320.6438,
+            "lcp": 320.6063,
             "cls": 0,
             "tbt": 0
           },
@@ -212,7 +198,21 @@
             "seo": 100
           },
           "metrics": {
-            "lcp": 320.6681,
+            "lcp": 321.0015,
+            "cls": 0,
+            "tbt": 0
+          },
+          "failures": []
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "metrics": {
+            "lcp": 320.9629,
             "cls": 0,
             "tbt": 0
           },
