@@ -1,25 +1,25 @@
 {
-  "environment": "cloudflare-staging",
+  "environment": "production",
   "pages": [
     {
       "page": "/404.html",
-      "cssGzipBytes": 4168,
+      "cssGzipBytes": 3232,
       "fontBytes": 81804,
-      "javascriptGzipBytes": 15453,
+      "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/blog/index.html",
-      "cssGzipBytes": 4168,
+      "cssGzipBytes": 3232,
       "fontBytes": 81804,
-      "javascriptGzipBytes": 15453,
+      "javascriptGzipBytes": 0,
       "profiles": 0
     },
     {
       "page": "/index.html",
-      "cssGzipBytes": 4168,
+      "cssGzipBytes": 3232,
       "fontBytes": 81804,
-      "javascriptGzipBytes": 15453,
+      "javascriptGzipBytes": 0,
       "profiles": 10
     }
   ]
