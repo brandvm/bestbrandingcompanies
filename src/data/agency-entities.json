@@ -1,0 +1,52 @@
+{
+  "agency-anchour": {
+    "name": "Anchour",
+    "url": "https://www.anchour.com/",
+    "clutch": "https://clutch.co/profile/anchour"
+  },
+  "agency-bobs-your-uncle": {
+    "name": "Bob\u2019s Your Uncle",
+    "url": "https://www.bobsyouruncle.com/",
+    "clutch": "https://clutch.co/profile/bobs-your-uncle"
+  },
+  "agency-brand-vision": {
+    "name": "Brand Vision",
+    "url": "https://www.brandvm.com/",
+    "clutch": "https://clutch.co/profile/brand-vision-1"
+  },
+  "agency-clay": {
+    "name": "Clay",
+    "url": "https://clay.global/",
+    "clutch": "https://clutch.co/profile/clay"
+  },
+  "agency-daake": {
+    "name": "Daake",
+    "url": "https://www.daake.com/",
+    "clutch": "https://clutch.co/profile/daake"
+  },
+  "agency-mucho": {
+    "name": "Mucho",
+    "url": "https://wearemucho.com/",
+    "clutch": "https://clutch.co/profile/mucho"
+  },
+  "agency-ramotion": {
+    "name": "Ramotion",
+    "url": "https://www.ramotion.com/",
+    "clutch": "https://clutch.co/profile/ramotion"
+  },
+  "agency-tanj": {
+    "name": "Tanj",
+    "url": "https://tanj.co/",
+    "clutch": "https://clutch.co/profile/tanj"
+  },
+  "agency-the-branx": {
+    "name": "The Branx",
+    "url": "https://thebranx.com/",
+    "clutch": "https://clutch.co/profile/branx"
+  },
+  "agency-want": {
+    "name": "WANT",
+    "url": "https://wantbranding.com/",
+    "clutch": "https://clutch.co/profile/want"
+  }
+}
