@@ -1,7 +1,7 @@
 {
   "site": "bestbrandingcompanies",
-  "domain": "bestbrandingcompanies.com",
-  "build": "b478542832bf6d3bde2c29ed63ef833340de8b04",
+  "domain": "www.bestbrandingcompanies.com",
+  "build": "ef71687c0d3146bd4c868e5b131ea0220c2dd453",
   "assetsOnly": true,
   "reviewFeatures": false,
   "crawlable": true,
@@ -10,7 +10,7 @@
       "route": "/",
       "title": "10 Best Branding Companies: Compare Agencies (2026)",
       "description": "Compare 10 branding companies by strategy, identity design, project budgets and client experience. Explore agency profiles to find the right creative partner.",
-      "canonical": "https://bestbrandingcompanies.com/",
+      "canonical": "https://www.bestbrandingcompanies.com/",
       "headings": [
         {
           "level": 1,
@@ -150,7 +150,7 @@
       "route": "/blog/",
       "title": "Guides & comparisons | Best Branding Companies",
       "description": "Browse Best Branding Companies's detailed agency comparisons, practical hiring advice, and project guides.",
-      "canonical": "https://bestbrandingcompanies.com/blog/",
+      "canonical": "https://www.bestbrandingcompanies.com/blog/",
       "headings": [
         {
           "level": 1,
