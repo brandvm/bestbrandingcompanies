@@ -9,5 +9,19 @@
     "directory": "./dist",
     "not_found_handling": "404-page",
     "html_handling": "auto-trailing-slash"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "www.bestbrandingcompanies.com",
+      "custom_domain": true,
+      "zone_id": "28778edb7f568ee7c01d72acc28fa4ec",
+      "previews_enabled": false
+    },
+    {
+      "pattern": "bestbrandingcompanies.com",
+      "custom_domain": true,
+      "zone_id": "28778edb7f568ee7c01d72acc28fa4ec",
+      "previews_enabled": false
+    }
+  ]
 }

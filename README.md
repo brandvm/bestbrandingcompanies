@@ -1,6 +1,6 @@
 # Best Branding Companies
 
-An Astro agency directory for `bestbrandingcompanies.com`. This public repository contains the editorial source; Cloudflare staging is password-protected and noindex. Production domains remain untouched. There is no GitHub Pages deployment.
+An Astro agency directory for `bestbrandingcompanies.com`. This public repository contains the editorial source; Cloudflare staging is password-protected and noindex. The canonical production host is `www.bestbrandingcompanies.com`; the apex redirects permanently to www. There is no GitHub Pages deployment.
 
 ## Edit locally
 
